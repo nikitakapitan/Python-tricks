@@ -1,0 +1,3 @@
+cd D:\WORKSPACE\perso\GitHub\Python-tricks
+D:
+jupyter-notebook
